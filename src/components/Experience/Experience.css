@@ -1,0 +1,25 @@
+.experinceDiv{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.experienceMainDiv{
+    background-color: #0d1b2a;
+}
+/* .experience-card{
+
+} */
+
+.experience-card {
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    border-radius: 12px;
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .experience-card:hover {
+    transform: scale(1.02); /* slightly zoom in */
+  }
+  

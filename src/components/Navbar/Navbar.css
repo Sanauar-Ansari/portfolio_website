@@ -1,0 +1,14 @@
+#menu-appbar a{
+    text-decoration: none;
+    color: black;
+}
+
+#nav_heading a{
+    text-decoration: none; 
+}
+#nav_heading .active button{
+    border-bottom: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

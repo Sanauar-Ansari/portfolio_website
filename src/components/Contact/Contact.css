@@ -1,0 +1,75 @@
+.Footer {
+    background: linear-gradient(180deg,#576cbc 0%,#132a53);
+  }
+
+  .footer-icons {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+ }
+  .footer-icons a img {
+     width: 25px;
+  }
+  .footer-icons .gitIcon img{
+    width: 30px;
+  }
+  .Footer h5 {
+    color: white;
+  }
+
+  .ft-2 ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .ft-2 ul li {
+    font-weight: 500;
+  }
+  
+  .ft-2 ul a {
+    text-decoration: none;
+    font-size:15px;
+    font-weight: 500;
+    color: white;
+  }
+  .footerAlign{
+    display: flex;
+    /* for large screen */
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+    .Last-footer {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+  .Last-footer p {
+    font-size:14px;
+    font-weight: 600;
+    color: white;
+  }
+
+/* For screens up to 600px (mobile devices) */
+@media screen and (max-width: 600px) {
+  .footerAlign {
+    display: flex;
+    /* for large screen */
+    flex-direction: column;
+  
+  /* .Last-footer {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+  
+  /* .Last-footer p {
+    font-size:14px;
+    font-weight: 600;
+    color: white;
+  } */
+}
+}

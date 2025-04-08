@@ -1,0 +1,39 @@
+.heroSection {
+  background: linear-gradient(180deg, #0c1d5f 0%, #132a53);
+}
+
+.heroImg {
+  width: 55%;
+  max-width: 200px;
+  height: auto;
+  animation-name: floating;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 10px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
+}
+
+/* Responsive Adjustments */
+@media (max-width: 767px) {
+  .heroSection {
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+
+  .heroImg {
+    width: 60%;
+    margin-top: -150px;
+  }
+}
+
