@@ -1,12 +1,27 @@
-# This is my Personal Website
+# Summary
+Although I am a Full Stack Web Developer, this portfolio website is primarily a showcase of my Frontend React skills. Built using HTML, CSS, Bootstrap, JavaScript, and ReactJS, it highlights my journey in web development, featuring my projects, skills, and contact information. The website is fully responsive and designed to provide a seamless user experience across all devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Website Url: 
+https://sanauar-ansari.github.io/portfolio_website/
 
-Currently, two official plugins are available:
+# Key Features
+*Clean and Modern UI*
++ The design is simple yet professional, focusing on readability and ease of navigation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*Responsive Design*
++ The site is fully responsive, ensuring that it looks great on all screen sizes, from desktops to mobile devices.
 
-## Expanding the ESLint configuration
+*Interactive Elements*
++ JavaScript is used to add dynamic functionality, such as smooth scrolling, form validation, and interactive navigation.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Skills & Projects Section*
++ A detailed overview of my technical skills and selected projects, showcasing the work I've done in various technologies like HTML, CSS, JavaScript, React.js, Node.js, and MongoDB.
+
+*Contact Form*
++ A functional contact form that allows visitors to reach out directly via email.
+  
+# Technologies Used
+
++ HTML for the structure and content.
++ CSS for styling, layout, and bootstrap for responsiveness.
++ JavaScript for dynamic interactions and enhanced user experience.
