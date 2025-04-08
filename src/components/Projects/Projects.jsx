@@ -1,8 +1,8 @@
 import React from 'react'
 import { Card, CardContent, CardMedia, Typography, Button, Chip, Grid, Box, Container } from '@mui/material';
 import image from "../../assets/images.png"
-import doctor from "../../assets/doctor.jpg"
-import patient from "../../assets/patient.jpg"
+import doctor from "../../assets/doctor.webp"
+import patient from "../../assets/patient.webp"
 import admin from "../../assets/admin.jpg"
 import "./Project.css"
 const projects = [
